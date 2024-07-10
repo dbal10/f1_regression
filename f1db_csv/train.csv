@@ -1,0 +1,3 @@
+race_id,time_race,time_-1, time -2 ... -5, lap_last_5_times {0,4} x 5, number_of_fails_last_6,  number_of_fails_all, age, country, qual_time, start_position, weather
+
+
